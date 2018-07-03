@@ -1,2 +1,2 @@
-# daal_code
-Distribution Aware Active Learning 
+# daal
+Distribution Aware Active Learning with GANs
